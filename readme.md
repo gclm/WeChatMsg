@@ -45,48 +45,6 @@
 </div>
 </blockquote>
 
-## 3.0 全面来袭
-
-### 全面适配微信4.0 [点击查看详细设计文档](https://blog.lc044.love/post/13)
-
-![数据库架构设计图](./doc/images/数据库架构设计图.png)
-
-  * 全新框架、重构底层逻辑
-  * 更低的内存占用
-  * 更快的导出速度
-
-### 全新的Ui
-  * 更简洁
-  * 更流畅
-  * 更友好
-  * 前后端彻底分离
-
-
-## 🍉功能
-- [![](https://img.shields.io/badge/MemoTrace-官网-blue)](https://memotrace.cn/) 
-[![](https://img.shields.io/badge/GitHub-black.svg)](https://github.com/LC044/WeChatMsg)
-[![](https://img.shields.io/badge/Gitee-red.svg)](https://gitee.com/lc044/WeChatMsg)
-[![](https://img.shields.io/badge/Download-yellow.svg)](https://memotrace.cn/)
-- 🔒️🔑🔓️Windows本地微信数据库（支持微信4.0）
-- 还原微信聊天界面
-    - 🗨文本✅
-    - 🏝图片✅
-    - 拍一拍等系统消息✅ 
-- 导出数据
-  - 批量导出数据✅ 
-  - 导出联系人✅ 
-  - sqlite数据库✅ 
-  - HTML✅ 
-    - 文本、图片、视频、表情包、语音、文件、分享链接、系统消息、引用消息、合并转发的聊天记录、转账、音视频通话、位置分享、名片、小程序、视频号
-    - 支持时间轴跳转
-    - 引用消息可定位到原文
-    - 分享链接、小程序支持超链接跳转
-    - 合并转发的聊天记录支持展开
-  - CSV文档✅ 
-  - TXT文档✅ 
-  - Word文档✅
-- 分析聊天数据，做成[可视化年报](https://memotrace.cn/demo.html)
-
 ## 2024年度报告
 
 ### 预览
@@ -104,37 +62,6 @@
 ### 源码地址
 
 [https://github.com/LC044/AnnualReport](https://github.com/LC044/AnnualReport)
-
-# ⌛使用
-
-下载地址：[https://memotrace.cn/](https://memotrace.cn/)
-
-下载打包好的exe可执行文件，双击即可运行
-
-**⚠️注意：若出现闪退情况请右击选择用管理员身份运行exe程序，该程序不存在任何病毒，若杀毒软件提示有风险选择略过即可，key为none可重启电脑**
-
-## 源码运行
-
-[使用示例](./example/README.md)
-[详见开发者手册](./doc/开发者手册.md)
-
-[AI聊天](./MemoAI/readme.md)
-
-## PC端使用过程中部分问题解决（可参考）
-
-#### 🤔如果您在pc端使用的时候出现问题，可以先参考以下方面，如果仍未解决，可以在群里交流~
-
-* 不支持Win7
-* 不支持Mac(未来或许会实现)
-* 遇到问题四大法宝
-  * 首先要删除app/Database/Msg文件夹
-  * 重启微信
-  * 重启exe程序
-  * 重启电脑
-  * 换电脑
-如果您在运行可执行程序的时候出现闪退的现象，请右击软件使用管理员权限运行。
-
-[查看详细教程](https://memotrace.cn/doc/)
 
 # 🏆致谢
 
@@ -186,28 +113,6 @@
 
 如果您是一名开发者，有新的想法或建议，欢迎[fork](https://github.com/LC044/WeChatMsg/forks)
 该项目并发起[PR](https://github.com/LC044/WeChatMsg/pulls)，我将把您的名字写入贡献者名单中
-
-# 联系方式
-
-如果您遇到了问题，可以添加QQ群寻求帮助，由于精力有限，不能回答所有问题，所以还请您仔细阅读文档之后再考虑是否入群
-
-## 加群方式
-
-1. 关注官方公众号，回复：联系方式
-2. QQ扫码入群
-
-后续更新将会在公众号同步发布
-<div>
-  <img src="https://blog.lc044.love/static/img/b8df8c594a4cabaa0a62025767a3cfd9.weixin.webp">
-</div>
-
-## AI交流
-
-欢迎对“前言”中AI感兴趣的加入QQ群（不负责任何答疑），让我们一起探讨新技术，钻研新方案，将科技的力量融入生活，打造出一个真正具有情感的个人AI
-
-<div>
-  <img src="doc/images/ai_qq.jpg" height="200">
-</div>
 
 # License
 
