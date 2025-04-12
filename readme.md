@@ -1,26 +1,24 @@
-## 现已支持微信4.0，[点击查看详细设计文档](https://blog.lc044.love/post/13)
-
 <h1 align="center">我的数据我做主</h1>
 <div align="center">
     <a href="https://github.com/LC044/WeChatMsg/stargazers">
         <img src="https://img.shields.io/github/stars/LC044/WeChatMsg.svg" />
     </a>
-    <a href="https://memotrace.cn/" target="_blank">
+    <a href="#" target="_blank">
         <img alt="GitHub forks" src="https://img.shields.io/github/forks/LC044/WeChatMsg?color=eb6ea5">
     </a>
-    <a href="https://memotrace.cn/" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/WeChat-留痕-blue.svg">
     </a>
-    <a target="_blank" href="https://memotrace.cn/">
+    <a target="_blank" href="#">
         <img alt="Hits" src="https://hits.b3log.org/LC044/memotrace.svg">
     </a>
-    <a href="https://memotrace.cn/" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://img.shields.io/github/license/LC044/WeChatMsg" />
     </a>
     <a href="https://github.com/LC044/WeChatMsg/releases" target="_blank">
         <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/LC044/WeChatMsg">
     </a>
-    <a href="https://memotrace.cn/" target="_blank">
+    <a href="#" target="_blank">
         <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/LC044/WeChatMsg/total?color=3eb370">
     </a>
 </div>
@@ -49,10 +47,6 @@
 
 ### 预览
 
-[个人年度报告在线预览](https://memotrace.cn/2024/single/)
-
-[双人年度报告在线预览](https://memotrace.cn/2024Report/)
-
 手机可以扫码观看
 
 <img src="/doc/images/qrcode0.png" height="300px"/>
@@ -79,8 +73,7 @@
 > 声明：该项目有且仅有一个目的：“留痕”——我的数据我做主，前提是“我的数据”其次才是“我做主”，禁止任何人以任何形式将其用于任何非法用途，对于使用该程序所造成的任何后果，所有创作者不承担任何责任🙄<br>
 > 该软件不能找回删除的聊天记录，任何企图篡改微信聊天数据的想法都是无稽之谈。<br>
 > 本项目所有功能均建立在”前言“的基础之上，基于该项目的所有开发者均不能接受任何有悖于”前言“的功能需求，违者后果自负。<br>
-> 如果该项目侵犯了您或您产品的任何权益，请联系我删除<br>
-> 软件贩子勿扰，违规违法勿扰，二次开发请务必遵守开源协议
+> 如果该项目侵犯了您或您产品的任何权益，请联系我删除
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LC044/WeChatMsg&type=Date)](https://star-history.com/?utm_source=bestxtools.com#LC044/WeChatMsg&Date)
 
